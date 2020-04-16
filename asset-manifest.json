@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mono-rolo/static/css/main.394554ba.chunk.css",
-    "main.js": "/mono-rolo/static/js/main.b64fc840.chunk.js",
-    "main.js.map": "/mono-rolo/static/js/main.b64fc840.chunk.js.map",
+    "main.css": "/mono-rolo/static/css/main.220fed87.chunk.css",
+    "main.js": "/mono-rolo/static/js/main.65b0ca1f.chunk.js",
+    "main.js.map": "/mono-rolo/static/js/main.65b0ca1f.chunk.js.map",
     "runtime-main.js": "/mono-rolo/static/js/runtime-main.a5af2b21.js",
     "runtime-main.js.map": "/mono-rolo/static/js/runtime-main.a5af2b21.js.map",
     "static/js/2.a6bff23a.chunk.js": "/mono-rolo/static/js/2.a6bff23a.chunk.js",
     "static/js/2.a6bff23a.chunk.js.map": "/mono-rolo/static/js/2.a6bff23a.chunk.js.map",
     "index.html": "/mono-rolo/index.html",
-    "precache-manifest.ccc60bcb1933c4b17cff5703a38293b9.js": "/mono-rolo/precache-manifest.ccc60bcb1933c4b17cff5703a38293b9.js",
+    "precache-manifest.f62bcb04afa288500ddf02f5d01faf44.js": "/mono-rolo/precache-manifest.f62bcb04afa288500ddf02f5d01faf44.js",
     "service-worker.js": "/mono-rolo/service-worker.js",
-    "static/css/main.394554ba.chunk.css.map": "/mono-rolo/static/css/main.394554ba.chunk.css.map",
+    "static/css/main.220fed87.chunk.css.map": "/mono-rolo/static/css/main.220fed87.chunk.css.map",
     "static/js/2.a6bff23a.chunk.js.LICENSE.txt": "/mono-rolo/static/js/2.a6bff23a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a5af2b21.js",
     "static/js/2.a6bff23a.chunk.js",
-    "static/css/main.394554ba.chunk.css",
-    "static/js/main.b64fc840.chunk.js"
+    "static/css/main.220fed87.chunk.css",
+    "static/js/main.65b0ca1f.chunk.js"
   ]
 }

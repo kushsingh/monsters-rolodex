@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1a1cd2a5ee3c242112fab9bbe8186d0",
+    "revision": "c6bd3190552dca982385f789abd8109e",
     "url": "/mono-rolo/index.html"
   },
   {
-    "revision": "827a90d231446447f182",
-    "url": "/mono-rolo/static/css/main.394554ba.chunk.css"
+    "revision": "8e7c76604f05e2cc07c9",
+    "url": "/mono-rolo/static/css/main.220fed87.chunk.css"
   },
   {
     "revision": "926634218f0cd358d7da",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mono-rolo/static/js/2.a6bff23a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "827a90d231446447f182",
-    "url": "/mono-rolo/static/js/main.b64fc840.chunk.js"
+    "revision": "8e7c76604f05e2cc07c9",
+    "url": "/mono-rolo/static/js/main.65b0ca1f.chunk.js"
   },
   {
     "revision": "f11635c7cfd892f65a06",
